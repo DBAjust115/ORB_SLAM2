@@ -1,0 +1,1 @@
+测试git clone ssh方式clone的项目是否已经默认连接了
